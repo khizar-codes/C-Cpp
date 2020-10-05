@@ -1,0 +1,8 @@
+User: khiza :) You guess it right! Your score is 4 
+User: Khizar :) You guess it right! Your score is 6 
+User: khizar :) You guessed it right! Your score is 11 
+User: Khizar, Sorry, you lost!
+You could not guess the number in the allowed attempts (10).
+User: Khizar :) You guessed it right! Your score is 11 
+User: khizar, Sorry, you lost!
+You could not guess the number in the allowed attempts (10).

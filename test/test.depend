@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601773318 source:c:\users\khizar\desktop\coding\projectsc++\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+

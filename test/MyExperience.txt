@@ -1,0 +1,7 @@
+It was great hands on work! It was my first time so I got a hang of things now! 
+There were some things I could not figure out but the slides and google helped a lot.
+I was stuck on it for a little bit but then I realized my mistake. 
+It was good experience testing it with different scenarios as well! 
+
+The most important concept I learned was how to write to a file. I also learned that
+"a" is to continue the file, and "w" overwrites the file.
