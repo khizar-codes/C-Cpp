@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1552259401 source:c:\users\shahi\desktop\assignment2\main.cpp
+	"TriviaGame.h"
+
+1552259307 c:\users\shahi\desktop\assignment2\triviagame.h
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+
+1552259081 source:c:\users\shahi\desktop\assignment2\assignment2.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+	"TriviaGame.h"
+
+1552255573 c:\users\shahi\desktop\assignment2\main.cpp
+	"TriviaGame.h"
+
+1552255665 c:\users\shahi\desktop\assignment2\assignment2.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<fstream>
+	"TriviaGame.h"
+

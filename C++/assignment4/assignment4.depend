@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1555874959 source:c:\users\shahi\desktop\1337 assignment 4\assignment4.cpp
+	"memoryLeak.h"
+	<iostream>
+	<string>
+	"userList.h"
+	"menuList.h"
+	"userListCommands.h"
+
+1555800497 c:\users\shahi\desktop\1337 assignment 4\memoryleak.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<memory>
+	<iomanip>
+	<limits>
+
+1555800299 c:\users\shahi\desktop\1337 assignment 4\userlist.h
+	"memoryLeak.h"
+	<iostream>
+	<string>
+	<map>
+
+1555800522 c:\users\shahi\desktop\1337 assignment 4\menulist.h
+	<string>
+	<ios>
+	<vector>
+	<string>
+	"command.h"
+
+1555800550 c:\users\shahi\desktop\1337 assignment 4\command.h
+
+1555881500 c:\users\shahi\desktop\1337 assignment 4\userlistcommands.h
+	"memoryLeak.h"
+	<string>
+	"command.h"
+	"userList.h"
+
+1555800446 source:c:\users\shahi\desktop\1337 assignment 4\memoryleak.cpp
+	"memoryLeak.h"
+	<cstdlib>
+	<iostream>
+	<map>
+	<memory>
+	<iomanip>
+	<limits>
+
+1555800416 source:c:\users\shahi\desktop\1337 assignment 4\menulist.cpp
+	<iostream>
+	<string>
+	"menuList.h"
+
+1555800365 source:c:\users\shahi\desktop\1337 assignment 4\userlist.cpp
+	<iostream>
+	<iomanip>
+	"userList.h"
+
+1555899207 source:c:\users\shahi\desktop\1337 assignment 4\userlistcommands.cpp
+	"userListCommands.h"
+	<iostream>
+	<string>
+
+1555898880 source:c:\users\shahi\desktop\assignment4\main.cpp
+
+1556558966 source:c:\users\shahi\desktop\assignment4\assignment4.cpp
+	"memoryLeak.h"
+	<iostream>
+	<string>
+	"userList.h"
+	"menuList.h"
+	"userListCommands.h"
+	"stack.h"
+
+1555800497 c:\users\shahi\desktop\assignment4\memoryleak.h
+	<cstdlib>
+	<iostream>
+	<map>
+	<memory>
+	<iomanip>
+	<limits>
+
+1556335549 c:\users\shahi\desktop\assignment4\userlist.h
+	"memoryLeak.h"
+	<iostream>
+	<string>
+	<map>
+	"stack.h"
+
+1555800522 c:\users\shahi\desktop\assignment4\menulist.h
+	<string>
+	<ios>
+	<vector>
+	<string>
+	"command.h"
+
+1555800550 c:\users\shahi\desktop\assignment4\command.h
+
+1556299908 c:\users\shahi\desktop\assignment4\userlistcommands.h
+	"memoryLeak.h"
+	<string>
+	"command.h"
+	"userList.h"
+
+1555800446 source:c:\users\shahi\desktop\assignment4\memoryleak.cpp
+	"memoryLeak.h"
+	<cstdlib>
+	<iostream>
+	<map>
+	<memory>
+	<iomanip>
+	<limits>
+
+1556298495 source:c:\users\shahi\desktop\assignment4\menulist.cpp
+	<iostream>
+	<string>
+	"menuList.h"
+
+1556524928 source:c:\users\shahi\desktop\assignment4\userlist.cpp
+	<iostream>
+	<iomanip>
+	"userList.h"
+	"stack.h"
+
+1556300010 source:c:\users\shahi\desktop\assignment4\userlistcommands.cpp
+	"userListCommands.h"
+	<iostream>
+	<string>
+
+1556558864 c:\users\shahi\desktop\assignment4\stack.h
+	<cstddef>
+	<cassert>
+	<iostream>
+	<cstdlib>
+

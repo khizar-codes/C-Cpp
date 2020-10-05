@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1554676307 source:c:\users\shahi\desktop\assignment3\phonebook.cpp
+	"PhoneBook.h"
+
+1554676310 c:\users\shahi\desktop\assignment3\phonebook.h
+	"PhoneEntry.cpp"
+
+1554676431 c:\users\shahi\desktop\assignment3\phoneentry.cpp
+	"PhoneEntry.h"
+
+1554676311 c:\users\shahi\desktop\assignment3\phoneentry.h
+	<iostream>
+	<string>
+
+1554676313 source:c:\users\shahi\desktop\assignment3\phoneentry.cpp
+	"PhoneEntry.h"
+

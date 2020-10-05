@@ -1,0 +1,8 @@
+7
+Cola                  1.75 25
+Root-beer             2.00 20
+Lemon-lime            1.50 25
+Water                 1.00 40
+Iced-tea              1.25 35
+Orange                1.80  5
+Iced-tea              1.65 35

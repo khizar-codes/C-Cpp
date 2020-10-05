@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556515543 source:c:\users\shahi\desktop\stackimplementation\main.cpp
+	<iostream>
+	<cstdlib>
+
